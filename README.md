@@ -164,6 +164,7 @@ where id = 1;
 | id  | age | name    | surname | phone         |
 |-----|-----|---------|---------|---------------|
 | 1   | 11  | Viriato | Sol     | (057)52-64-51 |
+
 Стало
 
 | id  | age | name    | surname | phone         |
@@ -180,6 +181,7 @@ where id = 1;
 | id  | date       | customer_id |
 |-----|------------|-------------|
 | 1   | 2022-04-01 | 1           |
+
 Стало
 
 | id  | date       | customer_id |
@@ -197,6 +199,7 @@ where id = 1;
 | id  | name   | manufacturer | product_count | price |
 |-----|--------|--------------|---------------|-------|
 | 1   | Laptop | HP           | 2             | 16999 |
+
 Стало
 
 | id  | name   | manufacturer | product_count | price |
@@ -223,6 +226,7 @@ order by age desc limit 1;
 | 8   | 50  | Brynhildr | Ashtart  | (044)518-59-66 |
 | 9   | 33  | Koios     | Ishkur   | (0322)74-67-68 |
 | 10  | 48  | Murali    | Pyrrhus  | (0692)47-38-44 |
+
 Стало
 
 
@@ -256,6 +260,7 @@ order by date desc limit 1;
 | 7   | 2022-04-07 | 7           |
 | 9   | 2022-04-09 | 9           |
 | 10  | 2022-04-10 | 10          |
+
 Стало
 
 | id  | date       | customer_id |
